@@ -1,3 +1,4 @@
 <?
-echo "ekrana yazdir"
+echo "ekrana yazdir";
+echo "yeni kelimeleri de göster";
 ?>
