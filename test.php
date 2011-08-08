@@ -1,0 +1,3 @@
+<?
+echo "ekrana yazdir"
+?>
