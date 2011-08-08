@@ -16,16 +16,16 @@
 
 // ** MySQL ayarları - Bu bilgileri sunucunuzdan alabilirsiniz ** //
 /** WordPress için kullanılacak veritabanının adı */
-define('DB_NAME', 'veritabaniisminiz');
+define('DB_NAME', 'vicki');
 
 /** MySQL veritabanı kullanıcısı */
-define('DB_USER', 'kullaniciadiniz');
+define('DB_USER', 'jaye');
 
 /** MySQL veritabanı parolası */
-define('DB_PASSWORD', 'parolaniz');
+define('DB_PASSWORD', 'mlexjSd2');
 
 /** MySQL sunucusu */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'localhost:/tmp/mysql/vicki.sock');
 
 /** Yaratılacak tablolar için veritabanı karakter seti. */
 define('DB_CHARSET', 'utf8');
