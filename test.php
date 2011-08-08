@@ -1,3 +1,3 @@
 <?
-echo "ekrana yazdir"
+echo "ekrana yazdir";
 ?>
